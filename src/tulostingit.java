@@ -8,7 +8,7 @@ public class tulostingit {
 		String tekijä = "Jemina";
 		System.out.println(tekijä);
 		int luku1 = 20;
-		int luku2 = 5;
+		int luku2 = 8;
 		System.out.println(luku1);
 		System.out.println(luku1 = 60);
 		System.out.println(luku2 = 10);
